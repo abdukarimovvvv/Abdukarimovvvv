@@ -3,7 +3,7 @@
 <div align="center">
     <img alt="visitors counter" src="https://profile-counter.glitch.me/OYBEK/count.svg">
 </div>
-<img align="right" alt="GIF" height="170px" src="./image/Yandex_Music_icon.svg" />
+<img align="right" alt="GIF" height="120px" src="./image/Yandex_Music_icon.svg" />
 
 [![Yandex](https://github-readme-remake.vercel.app/api/spotify)](https://music.yandex.com/users/abdukarimovvvv/playlists)
 
