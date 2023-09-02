@@ -12,10 +12,14 @@
 </a>
 
 ## Statistics
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdukarimovvvv&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdukarimovvvv&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdukarimovvvv&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdukarimovvvv&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdukarimovvvv&theme=github&utcOffset=3)
+
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OYBEK&langs_count=10&layout=compact&count_private=true&hide_title=true&exclude_repo=REPO1,REPO2" width="400"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=OYBEK&langs_count=10&layout=compact&count_private=true&hide_title=true&exclude_repo=REPO1,REPO2)
-
 [<img src="https://github-readme-stats.vercel.app/api?username=OYBEK&count_private=true&hide_title=true&show_icons=true" width="400"/>](https://github-readme-stats.vercel.app/api?username=OYBEK&count_private=true&hide_title=true&show_icons=true)
-
 [<img src="https://github-readme-streak-stats.herokuapp.com/?user=OYBEK" width="400"/>](https://github-readme-streak-stats.herokuapp.com/?user=OYBEK)
 
 <a><h2>Stats</h2></a>
