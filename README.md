@@ -8,7 +8,7 @@
 [![Yandex](https://github-readme-remake.vercel.app/api/spotify)](https://music.yandex.com/users/abdukarimovvvv/playlists)
 
 <a href="https://platane.github.io/snk">
-  <img height="300px" src="./image/github-user-contribution.svg" ></img>
+  <img height="300px" src="./image/github-user-contribution (1).svg" ></img>
 </a>
 
 ## Statistics
