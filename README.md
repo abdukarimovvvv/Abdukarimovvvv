@@ -1,4 +1,5 @@
-# Привет, я OYBEK! 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=700&size=25&pause=1000&color=E10EF7&width=435&lines=Hello+my+name's+OYBEK" alt="Typing SVG" /></a>
+
 <p align="center">:round_pushpin: Profile views</p>
 <div align="center">
     <img alt="visitors counter" src="https://profile-counter.glitch.me/OYBEK/count.svg">
