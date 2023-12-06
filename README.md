@@ -13,21 +13,21 @@
 </a>
 
 ## Statistics
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdukarimovvvv&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdukarimovvvv&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdukarimovvvv&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdukarimovvvv&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdukarimovvvv&theme=github&utcOffset=3)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdukarimovvvv&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdukarimovvvv&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdukarimovvvv&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdukarimovvvv&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdukarimovvvv&theme=github&utcOffset=3)
 
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdukarimovvvv&langs_count=10&layout=compact&count_private=true&hide_title=true&exclude_repo=REPO1,REPO2" width="300"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=OYBEK&langs_count=10&layout=compact&count_private=true&hide_title=true&exclude_repo=REPO1,REPO2)
-[<img src="https://github-readme-stats.vercel.app/api?username=OYBEK&count_private=true&hide_title=true&show_icons=true" width="350"/>](https://github-readme-stats.vercel.app/api?username=OYBEK&count_private=true&hide_title=true&show_icons=true)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdukarimovvvv&langs_count=10&layout=compact&count_private=true&hide_title=true&exclude_repo=REPO1,REPO2" width="300"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdukarimovvvv&langs_count=10&layout=compact&count_private=true&hide_title=true&exclude_repo=REPO1,REPO2)
+[<img src="https://github-readme-stats.vercel.app/api?username=Abdukarimovvvv&count_private=true&hide_title=true&show_icons=true" width="350"/>](https://github-readme-stats.vercel.app/api?username=Abdukarimovvvv&count_private=true&hide_title=true&show_icons=true)
 [<img src="https://github-readme-streak-stats.herokuapp.com/?user=OYBEK" width="350"/>](https://github-readme-streak-stats.herokuapp.com/?user=OYBEK)
 
 <a><h2>Stats</h2></a>
 <div>
     <a><h2>Trophies</h2></a>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=OYBEK&row=4&theme=onedark&no-frame=true"/>
+        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Abdukarimovvvv&row=4&theme=onedark&no-frame=true"/>
     </a>    
     </a>
 </div>
