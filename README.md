@@ -21,7 +21,7 @@
 
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdukarimovvvv&langs_count=10&layout=compact&count_private=true&h" width="300"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdukarimovvvv&langs_count=10&layout=compact&count_private=true&hide_title=true&exclude_repo=REPO1,REPO2)
 [<img src="https://github-readme-stats.vercel.app/api?username=Abdukarimovvvv&count_private=true&hide_title=true&show_icons=true" width="350"/>](https://github-readme-stats.vercel.app/api?username=Abdukarimovvvv&count_private=true&hide_title=true&show_icons=true)
-[<img src="https://github-readme-streak-stats.herokuapp.com/?user=OYBEK" width="350"/>](https://github-readme-streak-stats.herokuapp.com/?user=OYBEK)
+[<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdukarimovvvv" width="350"/>](https://github-readme-streak-stats.herokuapp.com/?user=Abdukarimovvvv)
 
 
 
