@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Привет, я Ойбек (oybekabdukarimov) 🌟
+# 🚀 Привет, я Ойбек 🌟
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=7928CA&center=true&vCenter=true&width=600&lines=Fullstack+Engineer;Architecting+Solutions;Logistics+Tech+Pioneer;Building+the+Future" alt="Typing SVG" /></a>
 
