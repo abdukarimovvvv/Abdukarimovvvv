@@ -9,7 +9,7 @@
 ### 📬 Связаться со мной | Let's Connect
 
 <p align="center">
-  <a href="https://t.me/abdukarimovvvv"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://t.me/abdukarimovvvv_7"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="mailto:abdukarimovvvv@yandex.ru"><img src="https://img.shields.io/badge/Yandex-FF0000?style=for-the-badge&logo=yandex&logoColor=white" alt="Email"></a>
   <a href="https://github.com/abdukarimovvvv"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
