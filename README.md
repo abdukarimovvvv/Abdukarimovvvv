@@ -64,6 +64,18 @@
 
 ---
 
+## 🎧 Coding Vibe | Музыка
+
+<p align="center">
+  <a href="https://music.yandex.ru/playlists/lk.faaf6d2f-624f-4af1-9132-cc5d837d7db3?utm_source=desktop&utm_medium=copy_link">
+    <img src="https://img.shields.io/badge/Yandex_Music-Мой_Плейлист-yellow?style=for-the-badge&logo=yandexmusic&logoColor=black" alt="Yandex Music">
+  </a>
+  <br>
+  <i>Слушаю во время кода — зацени мой плейлист выше! ⚡</i>
+</p>
+
+---
+
 ## 📊 Гитхаб Статистика | GitHub Analytics
 
 <p align="center">
