@@ -92,9 +92,13 @@
 ## 🎨 График Активности | Contribution Path
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdukarimovvvv/Abdukarimovvvv/output/github-contribution-grid-snake.svg" alt="Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abdukarimovvvv/Abdukarimovvvv/raw/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/abdukarimovvvv/Abdukarimovvvv/raw/output/github-contribution-grid-snake.svg">
+    <img alt="github-snake" src="https://github.com/abdukarimovvvv/Abdukarimovvvv/raw/output/github-contribution-grid-snake.svg">
+  </picture>
   <br>
-  <i>(Змейка появится после запуска GitHub Action)</i>
+  <i>(Змейка обновляется автоматически каждый день)</i>
 </p>
 
 ---
