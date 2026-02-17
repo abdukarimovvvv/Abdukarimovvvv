@@ -1,5 +1,8 @@
 name: generate animation
 
+permissions:
+  contents: write
+
 on:
   # run automatically every 24 hours
   schedule:
@@ -15,8 +18,6 @@ on:
     
 jobs:
   generate:
-    permissions: 
-      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
     
