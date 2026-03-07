@@ -2,7 +2,7 @@
 
 # 🚀 Привет, я Ойбек 🌟
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=7928CA&center=true&vCenter=true&width=600&lines=Fullstack+Engineer;Architecting+Solutions;Logistics+Tech+Pioneer;Building+the+Future" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=7928CA&center=true&vCenter=true&width=600&lines=Fullstack+Engineer;Architecting+Solutions;Logistics+Tech+Pioneer;Building+the+Future" alt="Typing SVG" />
 
 ---
 
@@ -34,16 +34,9 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
----
 
-## 🏆 Мои Достижения | GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdukarimovvvv&theme=tokyonight&no-bg=true&column=6" alt="github trophy" /></a>
-</p>
 
----
-
-## 🏗 Проекты в Разработке | Active Works
+##  Проекты в Разработке | Active Works
 
 <table border="0">
   <tr>
@@ -77,11 +70,6 @@
 ---
 
 ## 📊 Гитхаб Статистика | GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdukarimovvvv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdukarimovvvv&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="45%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdukarimovvvv&theme=tokyonight&hide_border=true" width="94%" />
