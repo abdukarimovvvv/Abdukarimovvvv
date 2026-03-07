@@ -2,7 +2,7 @@
 
 # 🚀 Привет, я Ойбек 🌟
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=B026FF&center=true&vCenter=true&width=800&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82,+%D1%8F+%D0%9E%D0%B9%D0%B1%D0%B5%D0%BA+%E2%9A%A1;Fullstack+Engineer;Architecting+Solutions;Building+the+Future" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=B026FF&center=true&vCenter=true&width=800&lines=Hi,+I'm+Oybek+⚡;Fullstack+Engineer;Architecting+Solutions;Building+the+Future&v=1" alt="Typing SVG" />
 
 ---
 
@@ -72,12 +72,12 @@
 ## 📊 Гитхаб Статистика | GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdukarimovvvv&show_icons=true&bg_color=0D021A&title_color=00E5FF&text_color=ffffff&icon_color=B026FF&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdukarimovvvv&layout=compact&bg_color=0D021A&title_color=00E5FF&text_color=ffffff&hide_border=true&langs_count=10" width="45%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdukarimovvvv&show_icons=true&bg_color=0D021A&title_color=00E5FF&text_color=ffffff&icon_color=B026FF&hide_border=true&count_private=true&include_all_commits=true&v=1" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdukarimovvvv&layout=compact&bg_color=0D021A&title_color=00E5FF&text_color=ffffff&hide_border=true&langs_count=10&v=1" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdukarimovvvv&background=0D021A&stroke=00E5FF&ring=B026FF&fire=B026FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00E5FF&sideLabels=00E5FF&dates=B026FF&hide_border=true" width="94%" />
+  <img src="https://streak-stats.demolab.com/?user=abdukarimovvvv&background=0D021A&stroke=00E5FF&ring=B026FF&fire=B026FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00E5FF&sideLabels=00E5FF&dates=B026FF&hide_border=true&v=1" width="94%" />
 </p>
 
 ---
