@@ -2,7 +2,7 @@
 
 # 🚀 Привет, я Ойбек 🌟
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=7928CA&center=true&vCenter=true&width=600&lines=Fullstack+Engineer;Architecting+Solutions;Logistics+Tech+Pioneer;Building+the+Future" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=B026FF&center=true&vCenter=true&width=800&lines=Привет,+я+Ойбек+⚡;Fullstack+Engineer;Architecting+Solutions;Building+the+Future" alt="Typing SVG" />
 
 ---
 
@@ -44,13 +44,13 @@
       <img src="https://img.shields.io/badge/Project-LOADIX-blue?style=for-the-badge&logo=truck" alt="Loadix" /><br>
       <b>Loadix 2.0</b><br>
       <i>Enterprise Logistics Solution</i><br>
-      <a href="https://loadix.su">🌐 loadix.su</a>
+      <a href="https://loadix.su">loadix.su</a>
     </td>
     <td width="50%" align="center">
       <img src="https://img.shields.io/badge/Project-FASTAPI_MUSIC-green?style=for-the-badge&logo=fastapi" alt="FastAPIMusic" /><br>
       <b>FastAPI Music</b><br>
       <i>Backend Music Platform</i><br>
-      <a href="https://github.com/abdukarimovvvv/fastapi_music">📦 GitHub Repo</a>
+      <a href="https://github.com/abdukarimovvvv/fastapi_music">GitHub Repo</a>
     </td>
   </tr>
 </table>
@@ -72,7 +72,7 @@
 ## 📊 Гитхаб Статистика | GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdukarimovvvv&theme=tokyonight&hide_border=true" width="94%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdukarimovvvv&background=0D021A&stroke=00E5FF&ring=B026FF&fire=B026FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00E5FF&sideLabels=00E5FF&dates=B026FF&hide_border=true" width="94%" />
 </p>
 
 ---
@@ -81,9 +81,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abdukarimovvvv/Abdukarimovvvv/raw/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/abdukarimovvvv/Abdukarimovvvv/raw/output/github-contribution-grid-snake.svg">
-    <img alt="github-snake" src="https://github.com/abdukarimovvvv/Abdukarimovvvv/raw/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abdukarimovvvv/Abdukarimovvvv/raw/output/github-contribution-grid-snake-neon.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/abdukarimovvvv/Abdukarimovvvv/raw/output/github-contribution-grid-snake-neon.svg">
+    <img alt="github-snake" src="https://github.com/abdukarimovvvv/Abdukarimovvvv/raw/output/github-contribution-grid-snake-neon.svg">
   </picture>
   <br>
   <i>(Змейка обновляется автоматически каждый день)</i>
@@ -92,7 +92,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdukarimovvvv&color=7928CA&style=for-the-badge&label=PROFILE+VIEWS" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=abdukarimovvvv&color=B026FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Views" />
   <br>
   <b>Последнее обновление: 2026</b>
 </p>
