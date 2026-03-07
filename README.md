@@ -2,7 +2,7 @@
 
 # 🚀 Привет, я Ойбек 🌟
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=B026FF&center=true&vCenter=true&width=800&lines=Привет,+я+Ойбек+⚡;Fullstack+Engineer;Architecting+Solutions;Building+the+Future" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=B026FF&center=true&vCenter=true&width=800&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82,+%D1%8F+%D0%9E%D0%B9%D0%B1%D0%B5%D0%BA+%E2%9A%A1;Fullstack+Engineer;Architecting+Solutions;Building+the+Future" alt="Typing SVG" />
 
 ---
 
@@ -36,7 +36,7 @@
 
 
 
-##  Проекты в Разработке | Active Works
+## 🏗 Проекты в Разработке | Active Works
 
 <table border="0">
   <tr>
@@ -44,13 +44,13 @@
       <img src="https://img.shields.io/badge/Project-LOADIX-blue?style=for-the-badge&logo=truck" alt="Loadix" /><br>
       <b>Loadix 2.0</b><br>
       <i>Enterprise Logistics Solution</i><br>
-      <a href="https://loadix.su">loadix.su</a>
+      <a href="https://loadix.su">🌐 loadix.su</a>
     </td>
     <td width="50%" align="center">
       <img src="https://img.shields.io/badge/Project-FASTAPI_MUSIC-green?style=for-the-badge&logo=fastapi" alt="FastAPIMusic" /><br>
       <b>FastAPI Music</b><br>
       <i>Backend Music Platform</i><br>
-      <a href="https://github.com/abdukarimovvvv/fastapi_music">GitHub Repo</a>
+      <a href="https://github.com/abdukarimovvvv/fastapi_music">📦 GitHub Repo</a>
     </td>
   </tr>
 </table>
@@ -70,6 +70,11 @@
 ---
 
 ## 📊 Гитхаб Статистика | GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdukarimovvvv&show_icons=true&bg_color=0D021A&title_color=00E5FF&text_color=ffffff&icon_color=B026FF&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdukarimovvvv&layout=compact&bg_color=0D021A&title_color=00E5FF&text_color=ffffff&hide_border=true&langs_count=10" width="45%" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdukarimovvvv&background=0D021A&stroke=00E5FF&ring=B026FF&fire=B026FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00E5FF&sideLabels=00E5FF&dates=B026FF&hide_border=true" width="94%" />
