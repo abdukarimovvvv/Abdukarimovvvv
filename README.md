@@ -1,105 +1,77 @@
-<div align="center">
-
-# 🚀 Привет, я Ойбек 🌟
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=B026FF&center=true&vCenter=true&width=800&lines=Hi,+I'm+Oybek+⚡;Fullstack+Engineer;Architecting+Solutions;Building+the+Future&v=1" alt="Typing SVG" />
-
----
-
-### 📬 Связаться со мной | Let's Connect
-
 <p align="center">
-  <a href="https://t.me/abdukarimovvvv_7"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="mailto:abdukarimovvvv@yandex.ru"><img src="https://img.shields.io/badge/Yandex-FF0000?style=for-the-badge&logo=yandex&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/abdukarimovvvv"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
-
----
-
-## 🛠 Технологический Арсенал | Tech Stack
-
-### **Frontend & Design**
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-</p>
-
-### **Backend & Database**
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-
-
-## 🏗 Проекты в Разработке | Active Works
-
-<table border="0">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://img.shields.io/badge/Project-LOADIX-blue?style=for-the-badge&logo=truck" alt="Loadix" /><br>
-      <b>Loadix 2.0</b><br>
-      <i>Enterprise Logistics Solution</i><br>
-      <a href="https://loadix.su">🌐 loadix.su</a>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://img.shields.io/badge/Project-FASTAPI_MUSIC-green?style=for-the-badge&logo=fastapi" alt="FastAPIMusic" /><br>
-      <b>FastAPI Music</b><br>
-      <i>Backend Music Platform</i><br>
-      <a href="https://github.com/abdukarimovvvv/fastapi_music">📦 GitHub Repo</a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🎧 Coding Vibe | Музыка
-
-<p align="center">
-  <a href="https://music.yandex.ru/playlists/lk.faaf6d2f-624f-4af1-9132-cc5d837d7db3?utm_source=desktop&utm_medium=copy_link">
-    <img src="https://img.shields.io/badge/Yandex_Music-Мой_Плейлист-yellow?style=for-the-badge&logo=yandexmusic&logoColor=black" alt="Yandex Music">
+  <a href="https://github.com/abdukarimovvvv">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ad0ecd&fontSize=54&height=90&width=954&text=%D0%99%D0%BE%2C%20%D1%8D%D1%82%D0%BE%20%D0%B2%D0%B0%D0%B9%D0%B1-%D0%BA%D0%BE%D0%B4%D0%B5%D1%80%20%D0%BD%D0%B0%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8" alt="Йо, это вайб-кодер на связи" />
   </a>
-  <br>
-  <i>Слушаю во время кода — зацени мой плейлист выше! ⚡</i>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=565&height=44&lines=%D0%92%D0%B0%D0%B9%D0%B1-%D0%BA%D0%BE%D0%B4%D0%B5%D1%80%20%7C%20%D0%9F%D0%B8%D1%88%D1%83%20%D0%BA%D0%BE%D0%B4%20%D0%BF%D0%BE%20%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D1%8E;AI%20%D0%BF%D0%B8%D1%88%D0%B5%D1%82%2C%20%D1%8F%20%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%8F%D1%8E" alt="Typing headlines" />
+</p>
+
+### 🚀 Обо мне
+
+Вайб-кодер, который верит в силу промптов и хорошего кофе. Пишу код, когда приходит вдохновение, доверяю процессу и AI. Собираю штуки для веба и делюсь тем, что получается (и что нет).
+
+🔭 &nbsp;Сейчас работаю над: **Стартап на промптах**  
+🌱 &nbsp;Сейчас изучаю: **Как формулировать промпты ещё точнее**  
+👯 &nbsp;Хочу сотрудничать в: **Проекты, где можно кодить по вайбу вместе**  
+🤔 &nbsp;Нужна помощь с: **Дебаг того, что AI написал в 3 часа ночи**  
+💬 &nbsp;Спрашивайте меня про: **Как AI меняет разработку**  
+😄 &nbsp;Местоимения: **он/его**  
+⚡ &nbsp;Интересный факт: **Мой code review — это разговор с AI**
+
+### 🛠️ Технологии
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+### 🔗 Связаться со мной
+
+<p align="left">
+  <a href="https://instagram.com/abdukarimovvvv_7" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://youtube.com/@MovieLaboratoryPro" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="mailto:oybekabdukarimov5@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+### 📊 Статистика GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=abdukarimovvvv&show_icons=true&theme=tokyonight&title_color=ad0ecd&icon_color=ad0ecd&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=abdukarimovvvv&layout=compact&theme=tokyonight&title_color=ad0ecd&icon_color=ad0ecd&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
+
+### 📈 График активности
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdukarimovvvv&bg_color=00000000&color=ad0ecd&line=ad0ecd&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
+
+### 💭 Цитата дня
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
 ---
-
-## 📊 Гитхаб Статистика | GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdukarimovvvv&show_icons=true&bg_color=0D021A&title_color=00E5FF&text_color=ffffff&icon_color=B026FF&hide_border=true&count_private=true&include_all_commits=true&v=1" width="48%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdukarimovvvv&layout=compact&bg_color=0D021A&title_color=00E5FF&text_color=ffffff&hide_border=true&langs_count=10&v=1" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=abdukarimovvvv&background=0D021A&stroke=00E5FF&ring=B026FF&fire=B026FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00E5FF&sideLabels=00E5FF&dates=B026FF&hide_border=true&v=1" width="94%" />
-</p>
-
----
-
-## 🎨 График Активности | Contribution Path
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abdukarimovvvv/Abdukarimovvvv/raw/output/github-contribution-grid-snake-neon.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/abdukarimovvvv/Abdukarimovvvv/raw/output/github-contribution-grid-snake-neon.svg">
-    <img alt="github-snake" src="https://github.com/abdukarimovvvv/Abdukarimovvvv/raw/output/github-contribution-grid-snake-neon.svg">
-  </picture>
-  <br>
-  <i>(Змейка обновляется автоматически каждый день)</i>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdukarimovvvv&color=B026FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Views" />
-  <br>
-  <b>Последнее обновление: 2026</b>
-</p>
-
-</div>
+<p align="center"><i>⭐️ От <a href="https://github.com/abdukarimovvvv">abdukarimovvvv</a></i></p>
